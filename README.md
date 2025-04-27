@@ -11,14 +11,14 @@ It uses Object-Oriented Programming (OOP) concepts like classes, methods, and th
 4.Check bank balance
 5.Create multple instances of Class ATM
 
-# How to run
+# How to run the code
 
 1.Please install python 3.0
 2.Copy paste only ATM related code and save your code in .py file (e.g. atm_code.py)
 3.Run the file using command : python atm_code.py
 4.Follow the on-screen menu to perform operations like setting a PIN,depositing,withdrawing etc
 
-# example usage
+# Example usage
 
 Hello, how would you like to proceed?
 1. Create PIN
